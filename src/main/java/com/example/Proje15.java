@@ -2,7 +2,7 @@ package com.example;
 
 import java.util.Scanner;
 
-public class EquationSolver {
+public class Proje15 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
